@@ -1,9 +1,9 @@
 {
-	"time": "Tue May 29 2018 17:22:38 GMT-0300 (Hora oficial do Brasil)",
-	"nativePlatformStatus": "1",
+	"time": "Wed May 30 2018 11:18:24 GMT-0300 (Hora oficial do Brasil)",
+	"nativePlatformStatus": "3",
 	"bundle": false,
 	"release": false,
-	"changesRequireBuild": true,
-	"projectFileHash": "071f622a8281bfd8a00bd50821ced902e99166a0ca11ae0b387d88002f79703a",
-	"changesRequireBuildTime": "Tue May 29 2018 17:22:38 GMT-0300 (Hora oficial do Brasil)"
+	"changesRequireBuild": false,
+	"projectFileHash": "694d057f284e3d29b87cb7df5633693ae9d3a6328061c07e749eae4782418da1",
+	"changesRequireBuildTime": "Wed May 30 2018 04:26:17 GMT-0300 (Hora oficial do Brasil)"
 }
